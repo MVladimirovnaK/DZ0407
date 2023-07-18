@@ -3,7 +3,7 @@
 Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
-int counter = 0;
+int counter = 1;
 
 while (counter < number)
 {
